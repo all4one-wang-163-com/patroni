@@ -23,6 +23,7 @@ Contributing a pull request 提交一个修改
 ---------------------------
 
 1) Submit a comment to the relevant issue or create a new issue describing your proposed change.
+1) 提交一个对相关问题的评论或创建一个新的问题。
 2) Do a fork, develop and test your code changes.
 3) Include documentation
 4) Submit a pull request.
