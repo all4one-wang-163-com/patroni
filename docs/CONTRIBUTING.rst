@@ -6,10 +6,12 @@ Contributing guidelines 贡献指南
 Wanna contribute to Patroni? Yay - here is how!
 想对Patroni作出贡献？如果你的回答是yes，那么开始吧！
 
-Chatting 交谈
+Chatting 讨论交谈
 --------
 
 Just want to chat with other Patroni users?  Looking for interactive troubleshooting help? Join us on channel #patroni in the `PostgreSQL Slack <https://postgres-slack.herokuapp.com/>`__.
+
+如果只是想和其他的Patroni用户针对遇到的问题讨论出一个解决的办法？那么来`PostgreSQL Slack <https://postgres-slack.herokuapp.com/>`__.的 #patroni 频道吧。
 
 Reporting issues 提交问题
 ----------------
