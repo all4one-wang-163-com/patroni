@@ -29,6 +29,7 @@ Contributing a pull request 提交一个修改
 4) Submit a pull request.
 
 You'll get feedback about your pull request as soon as possible.
+对你提交的推送请求会尽快的的得到一个反馈。
 
 Happy Patroni hacking ;-)
 享受你的深度了解Patroni的快乐吧 :-)
